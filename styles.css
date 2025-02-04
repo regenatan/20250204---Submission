@@ -51,7 +51,7 @@ background-position: center ;
         height:auto;
     }}
 
-    
+
     /* merch section */
     #section-2{
         background-color: pink;
@@ -117,5 +117,14 @@ background-position: center ;
             width: 30%;
             padding: 5px;
             border-radius: 5px;
+        }
+    
+        /* TOUR PAGE */
+        #tour-dates {
+            height:95vh;
+            background-image: url(images/bg-2.png);
+            background-repeat: no-repeat;
+            background-size: cover;
+            background-position: center;
         }
     
