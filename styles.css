@@ -122,7 +122,7 @@ background-position: center ;
     
         /* Tour Dates Pages */
         #tour-dates {
-            height:95vh;
+            height:100vh;
             background-image: url(images/bg-2.png);
             background-repeat: no-repeat;
             background-size: cover;
@@ -171,4 +171,5 @@ background-position: center ;
         #contact-form{
             height:100vh;
         }
-    
+
+        
