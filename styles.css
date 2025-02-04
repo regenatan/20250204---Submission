@@ -120,3 +120,27 @@ background-position: center ;
             border-radius: 5px;
         }
     
+        /* Tour Dates Pages */
+        #tour-dates {
+            height:95vh;
+            background-image: url(images/bg-2.png);
+            background-repeat: no-repeat;
+            background-size: cover;
+            background-position: center;
+        }
+    
+        .table {
+            background-color: transparent !important;
+        }
+        
+    
+        .table th,
+        .table td {
+            background-color: rgba(255, 255, 255, 0.1) !important;
+            color: white;
+        }
+        
+        .table-bordered {
+            border-color: rgba(255, 255, 255, 0.3);
+        }
+    
