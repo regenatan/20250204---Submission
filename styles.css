@@ -49,3 +49,24 @@ background-position: center ;
     #section-1 {
         height:auto;
     }}
+
+    #section-2{
+        background-color: pink;
+        padding: 30px;
+    }
+    
+    .custom-card .card-title {
+        color: pink;
+    }
+    
+    .custom-card .btn {
+        background-color: pink;
+        color: white; 
+        border: 1px solid #FF69B4;
+    }
+    
+    .custom-card .btn:hover {
+        background-color: #FF69B4;
+        color: white;
+    }
+    
