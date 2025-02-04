@@ -144,3 +144,31 @@ background-position: center ;
             border-color: rgba(255, 255, 255, 0.3);
         }
     
+        /* Contact Us Page */
+        #contact-page{
+            background-image: url(images/bg-1.png);
+            height: auto;
+            background-size: cover;
+            background-position: center;
+            background-repeat: no-repeat;
+        }
+    
+        @media (max-width: 768px) {
+            #contact-page{
+                height:100vh;
+            }}
+    
+        #contact-img{
+    height: 100vh;
+    width: auto;
+    background-image: url(images/contact-750x900.png);
+    background-size: cover;
+    background-position:bottom;
+    background-repeat: no-repeat;
+    
+        }
+    
+        #contact-form{
+            height:100vh;
+        }
+    
